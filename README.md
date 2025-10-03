@@ -1,4 +1,4 @@
 # First-Repository
 This is my first Git Repository
 <br>
-Author - Devraj Kanki
+Author - Devraj Kanki (Programmer)
